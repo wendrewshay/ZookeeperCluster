@@ -7,7 +7,7 @@
  * @date: 2017年7月19日 上午11:45:16   
  * @version V1.0     
  */
-package com.xwq.zk.curator;
+package com.xwq.zk.curator.leader;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

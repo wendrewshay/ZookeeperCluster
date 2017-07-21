@@ -1,4 +1,4 @@
-package com.xwq.zk.curator;
+package com.xwq.zk.curator.leader;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.recipes.leader.LeaderSelectorListenerAdapter;

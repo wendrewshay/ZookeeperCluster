@@ -1,4 +1,4 @@
-package com.xwq.zk.curator;
+package com.xwq.zk.curator.leader;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
